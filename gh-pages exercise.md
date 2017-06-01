@@ -1,6 +1,6 @@
 ## GitHub Pages exercise outline
 
-First, log in to your GitHub account.
+First, log in to your **GitHub account**.
 
 When creating GitHub pages, we have two options: User site or Project site
   * For a User site, create a new GitHub repository with the name "[username].github.io"
