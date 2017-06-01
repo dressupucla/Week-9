@@ -11,3 +11,4 @@
   * Under the GitHub Pages section, for Source, choose "master branch /docs folder" to use our "docs" folder for GitHub pages. Save your choice.
   * Now you should see a URL for your new GitHub site! Don't worry if the site doesn't load right away - sometimes it can take a bit for the site to build.
 5. Now let's learn to use our browser "Developer Tools" to customize our site...
+6. After the break, we'll publish some of the visualizations we've created in DResSUP.
