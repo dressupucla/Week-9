@@ -1,4 +1,4 @@
-## GitHub Pages exercise
+## GitHub Pages exercise outline
 
 1. Log in to your GitHub account
 2. Two options: User site vs. Project site
