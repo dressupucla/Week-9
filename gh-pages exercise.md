@@ -2,9 +2,9 @@
 
 First, log in to your **GitHub account**.
 
-When creating GitHub pages, we have two options: User site or Project site
-  * For a User site, create a new GitHub repository with the name "[username].github.io"
-  * For a project site, open or create a repository, then create a folder within named "docs"
+When creating GitHub pages, we have two options: **User site** or **Project site**
+  * For a User site, create a new GitHub repository with the name **"[username].github.io"**
+  * For a project site, open or create a repository, then create a folder within named **"docs"**
 
 Now we'll to create or add an `index.html` file in our repository (for a User site) or the "docs" folder (for a project site). Instead of creating one from scratch, we're going to use an HTML5 template (fancy!).
   * Take the folder named "website" and put it in your repository or "docs" folder. This contains an index.html file and all the CSS and other code we need for a nice one-page website. 
