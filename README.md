@@ -1,4 +1,4 @@
-## Week 9: Intro to gh-pages (and a bit of web development)
+## Week 9: Sharing your work openly, GitHub Pages, (and a bit of web development)
 
 Link to this lesson: https://github.com/dressupucla/Week-9
 
