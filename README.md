@@ -1,5 +1,7 @@
 ## Week 9: Intro to gh-pages (and a bit of web development)
 
+Link to this lesson: https://github.com/dressupucla/Week-9
+
 This we'll cover:
 
 * A brief introduction to a few cloud-based platforms for hosting/distributing your work
